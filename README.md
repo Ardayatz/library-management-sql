@@ -5,7 +5,7 @@ It includes tables for books, members, and borrowings, along with sample data an
 
 ## Contents
 - `schema.sql`: Table definitions
-- `seed_data.sql`: Sample data inserts
+- `sample_data.sql`: Sample data inserts
 - `queries.sql`: Practice queries
 
 ## How to Use
