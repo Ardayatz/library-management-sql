@@ -10,7 +10,7 @@ It includes tables for books, members, and borrowings, along with sample data an
 
 ## How to Use
 1. Run `schema.sql` to create the tables.
-2. Run `seed_data.sql` to populate data.
+2. Run `sample_data.sql` to populate data.
 3. Use `queries.sql` to explore the data.
 
 Enjoy learning SQL!
